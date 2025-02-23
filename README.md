@@ -1,5 +1,4 @@
 # MovieCheckoutSystem
-The Movie Checkout System is a Java Spring-based application designed to manage movie rentals and checkouts.
 
 ![Screenshot 2025-02-22 224616](https://github.com/user-attachments/assets/a49bce22-1eec-4efa-a2f7-a67c12fdf3f1)
 ![Screenshot 2025-02-22 223354](https://github.com/user-attachments/assets/22a2b068-31c4-46c2-99eb-9ddeaa69e0ae)
